@@ -30,6 +30,14 @@ Claude correctly:
 > - Recuperação semântica/simbólica
 > - Execução em sandbox"
 
+> "This text appears to describe an AI/programming system architecture that combines:
+> - Local recursive agents
+> - Persistent memory management (SQLite)
+> - Language models (LLM)
+> - Programming languages (Lua, C++23)
+> - Semantic/symbolic retrieval
+> - Sandbox execution"
+
 ## Significance
 
 This confirms the pattern from [Experiment 03](../03-qwen3-scriptio-continua/): scriptio continua without spaces still triggers constructive inference mode. Now demonstrated on both a 14B local model (Qwen3) and a frontier model (Claude).
@@ -45,5 +53,7 @@ Full decoded response from Claude (raw): `response.md`.
 Opening line (translated):
 
 > "Esta é uma interessante *scriptio continua* técnica em latim! Vou decodificá-la palavra por palavra:"
+
+> "This is an interesting technical *scriptio continua* in Latin! I will decode it word by word:"
 
 See `response.md` for the complete translation and technical analysis.

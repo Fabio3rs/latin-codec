@@ -14,6 +14,8 @@ AGENSRECURSIVVSLOCALISPRIMVSADCODICVMETFIRMVARIORVMINVESTIGATIONEMCONDITVSINGENT
 
 Followed by: `Expanda + traduza esta Scriptio Continua técnica do Latim`
 
+Followed by (English): `Expand + translate this technical Scriptio Continua from Latin`
+
 ## Result
 
 The model correctly reconstructed:

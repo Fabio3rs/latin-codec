@@ -2,7 +2,7 @@
 
 ## Context
 
-A Latin lapidary description of the [MemPalace](https://github.com/milla-jovovich/mempalace) project — a persistent memory system for LLMs using ChromaDB, SQLite, and the AAAK compression dialect — was sent to Claude with the follow-up `"fale sobre este projeto"`(tell about this project).
+A Latin lapidary description of the [MemPalace](https://github.com/milla-jovovich/mempalace) project — a persistent memory system for LLMs using ChromaDB, SQLite, and the AAAK compression dialect — was sent to Claude with the follow-up `"fale sobre este projeto"` ("tell about this project").
 
 This is notable because MemPalace is an **external project** the author did not build. The Latin prompt was generated from public information about the project.
 
@@ -63,6 +63,8 @@ The experiment is still valuable, but for a **different reason** than pure recon
 After searching the web and having all source material available, Claude opened with:
 
 > *"Que texto de abertura interessante — você escreveu em latim clássico descrevendo o projeto **com precisão surpreendente**."*
+
+> *"What an interesting opening text — you wrote in classical Latin describing the project **with surprising precision**."*
 
 This is significant: the model **compared** the ~50-word Latin encoding against the actual project documentation found online and concluded the Latin described it with "surprising precision." The compression was not just decodable — it was *verifiably accurate* when checked against ground truth.
 
