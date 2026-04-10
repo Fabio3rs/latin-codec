@@ -88,6 +88,6 @@ Full response captured in `response.md`.
 
 Opening line (translated):
 
-> "Que texto de abertura interessante — você escreveu em latim clássico descrevendo o projeto com precisão surpreendente. Aqui vai um resumo completo:"
+> *"What an interesting opening text — you wrote in classical Latin describing the project **with surprising precision**."*
 
 See `response.md` for the full generated review and source snippets.
