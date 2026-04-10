@@ -33,3 +33,17 @@ Claude correctly:
 ## Significance
 
 This confirms the pattern from [Experiment 03](../03-qwen3-scriptio-continua/): scriptio continua without spaces still triggers constructive inference mode. Now demonstrated on both a 14B local model (Qwen3) and a frontier model (Claude).
+
+## Screenshot
+
+![Claude response to scriptio continua](screenshot-claude-response.png)
+
+## Raw response
+
+Full decoded response from Claude (raw): `response.md`.
+
+Opening line (translated):
+
+> "Esta é uma interessante *scriptio continua* técnica em latim! Vou decodificá-la palavra por palavra:"
+
+See `response.md` for the complete translation and technical analysis.

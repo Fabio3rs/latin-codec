@@ -38,6 +38,22 @@ This changes the interpretation significantly. Unlike [Experiment 01](../01-simd
 2. **Searched** the web using those keywords
 3. **Synthesized** the web results into a coherent response
 
+## Web search evidence
+
+Screenshot of the Claude session showing the web search results: `screenshot-claude-websearch.png`
+
+![Claude web search for MemPalace](screenshot-claude-websearch.png)
+
+Excerpted results (top 10 shown in session):
+
+- MemPalace — Milla Jovovich's AI Memory System (mempalace.tech)
+- An Unexpected Entry Into AI Memory: Milla Jovovich’s Open-Source MemPalace (alexeyondata.substack.com)
+- GitHub - milla-jovovich/mempalace (github.com)
+- Milla Jovovich creates MemPalace AI memory tool (cybernews.com)
+- MemPalace Review: Real AI Memory Innovation, Questionable Benchmark Claims (nicholasrhodes.substack.com)
+
+Full list: see `search_results.md`.
+
 ## What This Still Shows
 
 The experiment is still valuable, but for a **different reason** than pure reconstruction:
@@ -63,3 +79,13 @@ The indeclinable noun convention (treating `MemPalace`, `ChromaDB`, `SQLite`, `A
 This experiment does **not** demonstrate unsupported reconstruction from structure alone. For that, see:
 - [Experiment 01](../01-simd-strcmp/) — ChatGPT, no web access, reconstructed SIMD implementation details
 - [Experiment 03](../03-qwen3-scriptio-continua/) — Qwen3 14B local, no web access, reconstructed agent architecture
+
+## Raw response
+
+Full response captured in `response.md`.
+
+Opening line (translated):
+
+> "Que texto de abertura interessante — você escreveu em latim clássico descrevendo o projeto com precisão surpreendente. Aqui vai um resumo completo:"
+
+See `response.md` for the full generated review and source snippets.
