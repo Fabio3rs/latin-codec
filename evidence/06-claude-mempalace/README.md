@@ -2,7 +2,7 @@
 
 ## Context
 
-A Latin lapidary description of the [MemPalace](https://github.com/MemPalace) project — a persistent memory system for LLMs using ChromaDB, SQLite, and the AAAK compression dialect — was sent to Claude with the follow-up `"fale sobre este projeto"`.
+A Latin lapidary description of the [MemPalace](https://github.com/milla-jovovich/mempalace) project — a persistent memory system for LLMs using ChromaDB, SQLite, and the AAAK compression dialect — was sent to Claude with the follow-up `"fale sobre este projeto"`(tell about this project).
 
 This is notable because MemPalace is an **external project** the author did not build. The Latin prompt was generated from public information about the project.
 
